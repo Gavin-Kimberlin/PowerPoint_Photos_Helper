@@ -1,0 +1,2 @@
+cd /d "C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper" &msbuild "PowerPoint_Photos_Helper.csproj" /t:sdvViewer /p:configuration="Debug" /p:platform="Any CPU" /p:SolutionDir="C:\Users\guvin\source\repos\PowerPoint_Photos_Helper" 
+exit %errorlevel% 

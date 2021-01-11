@@ -1,0 +1,20 @@
+﻿<Window x:Class="PowerPoint_Photos_Helper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PowerPoint Photos Helper" Height="835.691" Width="1245.128" Icon="App.ico">
+    <Grid>
+        <TextBox Name="TitleText" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="63,25,42,300" Width="412" RenderTransformOrigin="0.501,0.858">
+            Enter Slide Title
+        </TextBox>
+        <TextBox Name="BodyText" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="384,202,362,405" Width="412" RenderTransformOrigin="0.501,0.858">
+            Enter Slide Text
+        </TextBox>
+        <Image x:Name="imgDynamic1" Margin="128,360,839,259"  />
+        <Image x:Name="imgDynamic2" Margin="484,360,483,259"  />
+        <Image x:Name="imgDynamic3" Margin="0,360,129,259" HorizontalAlignment="Right" Width="270"  />
+        <Button x:Name="Newbutton" Content="New Slide"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="320,484,757,85" RenderTransformOrigin="0.495,0.485" Width="81"/>
+        <Button x:Name="PhotoSearch" Content="Search For Photos" Click="PhotosSearch" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="516,484,532,85" RenderTransformOrigin="0.495,0.485" Width="110"/>
+        <Button x:Name="button" Content="Open in PowerPoint" Click="OnButtonClicked" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="716,484,318,85" Width="124" RenderTransformOrigin="0.501,0.486"/>
+
+    </Grid>
+</Window>

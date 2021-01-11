@@ -1,0 +1,11 @@
+
+
+Date:2021-01-10 06:55:05,129
+Thread:[1]
+Level:ERROR
+Logger:SyncfusionAssemblyReferenceUI.SyncfusionAssemblyReferenceVM                         [(null)]
+Message:System.ArgumentNullException: Value cannot be null.
+Parameter name: sp
+   at Microsoft.VisualStudio.Shell.ServiceProvider..ctor(IServiceProvider sp, Boolean defaultServices)
+   at Microsoft.VisualStudio.Shell.ServiceProvider..ctor(IServiceProvider sp)
+   at SyncfusionAssemblyReferenceUI.SyncfusionAssemblyReferenceVM.AddReferencesmethod()
