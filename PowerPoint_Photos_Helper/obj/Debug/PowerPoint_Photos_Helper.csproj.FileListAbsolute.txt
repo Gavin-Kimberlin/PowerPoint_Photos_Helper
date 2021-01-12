@@ -42,3 +42,7 @@ C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bi
 C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bin\Debug\Newtonsoft.Json.xml
 C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\guvin\source\repos\PowerPoint_Photos_Helper\PowerPoint_Photos_Helper\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
